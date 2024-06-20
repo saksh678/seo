@@ -1,0 +1,14 @@
+Q1. What is SEO and explain the importance of SEO?
+ans:- SEO stand for search enging optimization. it help to improve your website visibility ,
+get a more ranging of search engine like google & yahoo.
+ranking decided that your website is more seo- freindly , which is increase trafic, visibility in our website.
+Importance of seo:- Meta tags are use in website to improve our seo profomance in search engine. 
+
+
+3. What are the Benefits of Using Meta Tags?
+ans:- the benefits of using meta tags such as follow:-
+a. seo:- using meta tags such like description and keyword tags, it help improve webpage visiblilty
+and serch engine result page.
+b. Viewport control - The viewport meta tag is crucial for responsive web design.
+c.social media sharing :- meta tags like a open graph protocol tage allow developer to control how
+web page are displayed when shared on social media like instagram, facebook, twitter.
